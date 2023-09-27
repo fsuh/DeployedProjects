@@ -4,7 +4,7 @@ const Hero = () => {
 		<section className="hero">
 			<div className="hero-center">
 				<div className="hero-title">
-					<h1>Contentful CMS</h1>
+					<h1>Fuh Suh' Projects</h1>
 					<p>
 						These are the list of deployed projects I have worked with, on my
 						journey of learning web development. I have many other projects in
