@@ -4,7 +4,9 @@ const Hero = () => {
 		<section className="hero">
 			<div className="hero-center">
 				<div className="hero-title">
-					<h1>Fuh Suh' Projects</h1>
+					<h1>
+						Fuh Suh's <span>Projects</span>
+					</h1>
 					<p>
 						These are the list of deployed projects I have worked with, on my
 						journey of learning web development. I have many other projects in
@@ -16,7 +18,7 @@ const Hero = () => {
 					<img
 						src={HeroImg}
 						alt="Woman and the browser"
-						className="image"
+						className="img"
 					/>
 				</div>
 			</div>
