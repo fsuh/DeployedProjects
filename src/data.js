@@ -19,4 +19,9 @@ const projects = [
 		url: "https://fsuh.github.io/Speedy_Mosquitoe/",
 		image: "./assets/smackMosquito.png",
 	},
+	{
+		title: "fsuh shop",
+		url: "https://fsuh-shop.netlify.app/",
+		image: "./assets/fsuh_shop.png",
+	},
 ];
