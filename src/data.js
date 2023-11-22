@@ -24,4 +24,9 @@ const projects = [
 		url: "https://fsuh-shop.netlify.app/",
 		image: "./assets/fsuh_shop.png",
 	},
+	{
+		title: "World Atlass",
+		url: "https://fsuh-atlas.netlify.app/",
+		image: "./assets/World_Atlas.png",
+	},
 ];
