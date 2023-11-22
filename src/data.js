@@ -25,8 +25,13 @@ const projects = [
 		image: "./assets/fsuh_shop.png",
 	},
 	{
-		title: "World Atlass",
+		title: "World Atlas",
 		url: "https://fsuh-atlas.netlify.app/",
 		image: "./assets/World_Atlas.png",
+	},
+	{
+		title: "Hospital GPS",
+		url: "https://finland-hospital-finder.onrender.com/",
+		image: "./assets/HospitalGPS.png",
 	},
 ];

@@ -375,3 +375,27 @@ PROJECTS
 		grid-template-columns: 1fr 1fr 1fr;
 	}
 }
+
+.hero-icons {
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+	gap: 20px;
+}
+
+.git-Icon {
+	width: 50px;
+	height: 50px;
+	color: var(--primary-500);
+}
+.git-Icon:hover {
+	transform: scale(1.2);
+}
+.linkedIn-Icon {
+	width: 50px;
+	height: 50px;
+	color: var(--primary-500);
+}
+.linkedIn-Icon:hover {
+	transform: scale(1.2);
+}
